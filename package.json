@@ -1,0 +1,8 @@
+{
+  "name": "rsn-lookup",
+  "version": "1.0.0",
+  "description": "Fubo RSN Lookup Tool",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
